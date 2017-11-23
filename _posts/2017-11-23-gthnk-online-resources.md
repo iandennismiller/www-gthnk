@@ -7,8 +7,8 @@ title: Gthnk Online Resources
 
 - [Website](http://www.gthnk.com)
 - [Blog](http://www.gthnk.com/blog)
-- [Documentation](http://docs.gthnk.com)
 - [Chat](https://riot.im/app/#/room/#gthnk:matrix.org)
+- [Documentation](http://docs.gthnk.com)
 
 ## Technical
 
