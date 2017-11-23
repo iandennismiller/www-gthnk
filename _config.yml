@@ -12,7 +12,7 @@ relative_permalinks: false
 # Setup
 title:            Gthnk
 tagline:          'A Personal Journal'
-description:      'Gthnk is a personal journal.'
+description:      'Gthnk is your thinking companion.'
 url:              http://www.gthnk.com
 baseurl:          ''
 
