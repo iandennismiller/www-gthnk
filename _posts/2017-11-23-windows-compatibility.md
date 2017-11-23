@@ -5,18 +5,18 @@ title: Windows Compatibility
 
 A huge update for Gthnk is coming down the pipe that will soon be released as **Gthnk 0.5**.
 
-## Focus
-
-The upcoming release of Gthnk benefits from a renewed focus that should produce a noticeable improvement in quality.
-This is one of those releases where we proudly announce that we've *actually removed features* - and it's a great thing!
-The features that remain are the core of Gthnk, so they've received much-needed attention and some test coverage.
-
 ## Windows
 
 Gthnk is now available to a much larger audience than before because it will run on almost any operating system.
 Perhaps the most important feature to be included in 0.5 is Windows compatibility.
 Part of this improved compatibility is thanks to [Python](https://www.python.org/).
 The [Python 3.6 Windows Installer](https://www.python.org/downloads/) is now the only requirement for installing Gthnk on Windows.
+
+## Focus
+
+The upcoming release of Gthnk benefits from a renewed focus that should produce a noticeable improvement in quality.
+This is one of those releases where we proudly announce that we've *actually removed features* - and it's a great thing!
+The features that remain are the core of Gthnk, so they've received much-needed attention and some test coverage.
 
 ## Integration
 
