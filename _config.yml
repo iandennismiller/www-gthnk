@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Gthnk
+tagline:          'A Personal Journal'
+description:      'Gthnk is a personal journal.'
+url:              http://www.gthnk.com
+baseurl:          /
+
+author:
+  name:           'Ian Dennis Miller'
+  url:            https://twitter.com/iandennismiller
+
+paginate:         5
+paginate_path:    "/blog/page:num/"
+
+# include/exclude files
+include: ["_pages", "_root", "_js"]
+exclude: ["_utterson", "_old", "Readme.md", "Todo.md", "Makefile", "vendor", "Gemfile", "Gemfile.lock", "requirements.txt", ".build", "_bin", "_pub", "build", ".mrbob.ini", ".settings.conf", ".gitignore"]
+
+# Custom vars
+version:          0.5.0
+
+github:
+  repo:           https://github.com/iandennismiller/gthnk
