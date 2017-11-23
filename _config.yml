@@ -14,7 +14,7 @@ title:            Gthnk
 tagline:          'A Personal Journal'
 description:      'Gthnk is a personal journal.'
 url:              http://www.gthnk.com
-baseurl:          "/"
+baseurl:          ''
 
 author:
   name:           'Ian Dennis Miller'
