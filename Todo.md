@@ -2,6 +2,7 @@
 
 ## Milestone 1
 
+
 ## Done
 
 - [x] add blog component to www-gthnk
@@ -14,3 +15,4 @@
 - [x] favicon
 - [x] add social/card metadata for sharing
 - [x] install wizard
+- [x] on mobile layout, move menu to bottom
