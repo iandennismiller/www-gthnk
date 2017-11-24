@@ -11,8 +11,6 @@ choices:
         url: "/wizards/win2"
 ---
 
-There are two main steps to this install process:
-
 1. [Download Python 3.6 or higher](http://python.org/download/windows) from the official website.
 2. Run the Python installer and follow the steps
 3. Launch **PowerShell** from your Start Menu
