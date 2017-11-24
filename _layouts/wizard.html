@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+
+  <p>
+  {% for choice in page.choices %}
+        <a class="button" href="{{ choice.url }}">{{ choice.description }}</a>
+  {% endfor %}
+  </p>
+
+</div>

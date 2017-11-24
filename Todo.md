@@ -2,6 +2,7 @@
 
 ## Milestone 1
 
+- [ ] install wizard
 
 ## Done
 

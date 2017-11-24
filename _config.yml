@@ -25,7 +25,7 @@ paginate:         5
 paginate_path:    "/blog/page:num/"
 
 # include/exclude files
-include: ["_pages", "_root", "_js"]
+include: ["_pages", "_root", "_js", "wizards"]
 exclude: ["_utterson", "_old", "Readme.md", "Todo.md", "Makefile", "vendor", "Gemfile", "Gemfile.lock", "requirements.txt", ".build", "_bin", "_pub", "build", ".mrbob.ini", ".settings.conf", ".gitignore"]
 
 # Custom vars

@@ -3,7 +3,7 @@ layout: page
 title: Status
 ---
 
-The status page provides an overview of the project systems:
+The status page provides an overview of the project systems.
 
 [![Travis CI](https://travis-ci.org/iandennismiller/gthnk.svg?branch=master)](http://build.gthnk.com)
 
