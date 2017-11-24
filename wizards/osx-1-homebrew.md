@@ -8,7 +8,7 @@ choices:
         url: "/wizards/support"
     -
         description: "Yes"
-        url: "/wizards/osx2"
+        url: "/wizards/osx-2"
 ---
 
 1. Launch **Terminal.app** using Finder or Spotlight.
@@ -25,7 +25,7 @@ pip install --upgrade pip
 
 What those commands do:
 
-1. Obtain Administrator privileges
+1. Obtain Administrator privileges.
 2. Install `python`, `virtualenv`, and other requirements.
 
 ## Are Python and virtualenv installed now?

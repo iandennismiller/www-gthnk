@@ -8,18 +8,20 @@ choices:
         url: "/wizards/support"
     -
         description: "Yes"
-        url: "/wizards/win2"
+        url: "/wizards/win-2"
 ---
 
 1. [Download Python 3.6 or higher](http://python.org/download/windows) from the official website.
-2. Run the Python installer and follow the steps
-3. Launch **PowerShell** from your Start Menu
-4. Launch *another* **PowerShell** with Administrator privileges
-    - Paste the following in the terminal window:
+2. Run the Python installer and follow the steps.
+3. Launch **PowerShell** from your Start Menu and paste:
     - `start-process powershell –verb runAs`
-5. Install `virtualenv` and related pre-requisites
-    - Paste the following in the terminal window:
+5. In the new PowerShell window, paste:
     - `pip install virtualenv virtualenvwrapper`
     - `pip install virtualenvwrapper-win`
+
+What those commands do:
+
+1. Launch a PowerShell with Administrator privileges.
+2. Install `virtualenv` and related pre-requisites.
 
 ## Are Python and virtualenv installed?

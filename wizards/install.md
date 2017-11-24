@@ -5,10 +5,10 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "Windows"
-        url: "/wizards/win"
+        url: "/wizards/win-start"
     -
         description: "OS X"
-        url: "/wizards/osx"
+        url: "/wizards/osx-start"
 ---
 
 The Installation Wizard is a guided process for Windows and OS X users who wish to install Gthnk on their computers.

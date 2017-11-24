@@ -5,10 +5,10 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "Next"
-        url: "/wizards/win1"
+        url: "/wizards/win-1"
 ---
 
 There are two main steps to this install process:
 
-1. Install Python
-2. Install Gthnk
+1. Install Python.
+2. Install Gthnk.

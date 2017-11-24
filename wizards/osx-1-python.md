@@ -8,7 +8,7 @@ choices:
         url: "/wizards/support"
     -
         description: "Yes"
-        url: "/wizards/osx2"
+        url: "/wizards/osx-2"
 ---
 
 1. [Download Python 3.6 or higher](http://python.org/download/windows) from the official website.
@@ -23,7 +23,7 @@ pip install virtualenv virtualenvwrapper
 
 What those commands do:
 
-1. Obtain Administrator privileges
-2. Install `virtualenv` and `virtualenvwrapper`
+1. Obtain Administrator privileges.
+2. Install `virtualenv` and `virtualenvwrapper`.
 
 ## Are Python and virtualenv installed now?

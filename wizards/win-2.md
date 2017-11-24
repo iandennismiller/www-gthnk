@@ -24,9 +24,9 @@ gthnk
 
 What those commands do:
 
-1. Create a Python virtual environment
-2. Install Gthnk and requirements in the virtual environment
-3. Start the Gthnk server processes
-4. Launch Gthnk
+1. Create a Python virtual environment.
+2. Install Gthnk and requirements in the virtual environment.
+3. Start the Gthnk server processes.
+4. Launch Gthnk.
 
 ## Did Gthnk launch in your browser?
