@@ -2,8 +2,6 @@
 
 ## Milestone 1
 
-- [ ] install wizard
-
 ## Done
 
 - [x] add blog component to www-gthnk
@@ -15,3 +13,4 @@
 - [x] add analytics
 - [x] favicon
 - [x] add social/card metadata for sharing
+- [x] install wizard

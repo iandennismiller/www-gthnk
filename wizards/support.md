@@ -19,4 +19,6 @@ Please see the following resources to see whether you can solve the problem:
 
 If necessary, go back in the Installation Wizard to review earlier steps.
 
+<a class="button" href="javascript:window.history.back();">Back</a>
+
 ## Did these resources help you install Gthnk?
