@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows Compatibility
+image: /public/gthnk-logo.png
 ---
 
 A huge update for Gthnk is coming down the pipe that will soon be released as **Gthnk 0.5**.

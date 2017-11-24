@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Online Resources
+image: /public/gthnk-logo.png
 ---
 
 Gthnk is supported by many online resources.

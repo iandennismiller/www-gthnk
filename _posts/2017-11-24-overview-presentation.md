@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Presenting an Overview of Gthnk
+image: /public/gthnk-logo.png
 ---
 
 The new [Gthnk Overview Presentation](http://iandennismiller.github.io/pres-gthnk-overview) is a slide deck that explains how to get started using Gthnk.

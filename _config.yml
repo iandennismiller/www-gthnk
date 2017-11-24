@@ -16,6 +16,7 @@ description:      'Gthnk is your thinking companion.'
 url:              http://www.gthnk.com
 baseurl:          ''
 
+twitter_username: iandennismiller
 author:
   name:           'Ian Dennis Miller'
   url:            https://twitter.com/iandennismiller

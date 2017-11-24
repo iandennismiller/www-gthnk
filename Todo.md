@@ -13,3 +13,4 @@
 - [x] blog post about presentation
 - [x] add analytics
 - [x] favicon
+- [x] add social/card metadata for sharing
