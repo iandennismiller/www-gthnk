@@ -11,4 +11,8 @@ We recommend that most users try the [Installation Wizard](/wizards/install) for
 
 ## Advanced Users
 
-The [installation process](http://gthnk.readthedocs.io/en/latest/intro/installation.html) is described in detail in the documentation. Advanced Python users might find this faster.
+The installation process is described in detail [in the documentation](http://gthnk.readthedocs.io/en/latest/intro/installation.html). Advanced Python users might find this faster.
+
+<p align="center">
+  <img src="/public/gthnk-logo.png">
+</p>
