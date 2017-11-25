@@ -2,6 +2,7 @@
 
 ## Milestone 1
 
+- [ ] contextual troubleshooting for the install wizard
 
 ## Done
 
