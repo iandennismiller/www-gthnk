@@ -8,7 +8,7 @@ choices:
         url: "/wizards/support"
     -
         description: "Yes"
-        url: "/wizards/done"
+        url: "/wizards/first-run-start"
 ---
 
 1. Launch a new **Terminal.app** using Finder or Spotlight.
