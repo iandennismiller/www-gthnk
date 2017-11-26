@@ -97,7 +97,9 @@ C:\Users\guest\Envs\gthnk\Scripts\gthnk.cmd
 
 When your browser loads, does Gthnk display in the window?  It should look like this:
 
-![Gthnk login screen](/public/gthnk-login-screen.png)
+<p align="center">
+    <img src="/public/gthnk-login-screen.png" style="-webkit-filter: drop-shadow(5px 5px 5px #888); filter: drop-shadow(5px 5px 5px #888);" >
+</p>
 
 If your browser does not display the Gthnk screen, what happens when you type `http://localhost:1620` in your browser's URL bar?
 
