@@ -8,7 +8,7 @@ choices:
         url: "http://docs.gthnk.com/en/latest/intro/system-requirements.html#debian-ubuntu"
     -
         description: "Skip"
-        url: "/wizards/first-run-start"
+        url: "/guides/first-run-start"
 ---
 
 You are in uncharted territory, here.

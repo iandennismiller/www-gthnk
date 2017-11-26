@@ -5,13 +5,13 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "Ubuntu"
-        url: "/wizards/linux-debian"
+        url: "/guides/linux-debian"
     -
         description: "Redhat"
-        url: "/wizards/linux-redhat"
+        url: "/guides/linux-redhat"
     -
         description: "Other"
-        url: "/wizards/linux-other"
+        url: "/guides/linux-other"
 ---
 
 Linux is partially supported by Gthnk.

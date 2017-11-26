@@ -5,7 +5,7 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "Next"
-        url: "/wizards/win-1"
+        url: "/guides/win-1"
 ---
 
 There are two main steps to this install process:

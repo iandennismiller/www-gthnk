@@ -5,10 +5,10 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "No"
-        url: "/wizards/support"
+        url: "/guides/osx-1-homebrew-support"
     -
         description: "Yes"
-        url: "/wizards/osx-2"
+        url: "/guides/osx-2"
 ---
 
 1. Launch **Terminal.app** using Finder or Spotlight.

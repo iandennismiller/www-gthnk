@@ -5,9 +5,9 @@ title: Install
 
 ## Typical Users
 
-We recommend that most users try the [Installation Wizard](/wizards/install) for a guided installation process.
+We recommend that most users try the [Installation Guide](/guides/install) for a guided installation process.
 
-<a class="button" href="/wizards/install/">Installation Wizard</a>
+<a class="button" href="/guides/install/">Installation Guide</a>
 
 ## Advanced Users
 

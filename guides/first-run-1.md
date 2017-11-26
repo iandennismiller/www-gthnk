@@ -1,14 +1,11 @@
 ---
 layout: wizard
-title: First Run of Gthnk
+title: Log in
 image: /public/gthnk-logo.png
 choices:
     -
-        description: "No"
-        url: "/wizards/support"
-    -
-        description: "Yes"
-        url: "/wizards/first-run-2"
+        description: "Next"
+        url: "/guides/first-run-2"
 ---
 
 Now click the refresh button.

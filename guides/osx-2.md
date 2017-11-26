@@ -5,10 +5,10 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "No"
-        url: "/wizards/support"
+        url: "/guides/osx-2-support"
     -
         description: "Yes"
-        url: "/wizards/first-run-start"
+        url: "/guides/first-run-start"
 ---
 
 1. Launch a new **Terminal.app** using Finder or Spotlight.

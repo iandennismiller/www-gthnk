@@ -8,7 +8,7 @@ choices:
         url: "/support/"
     -
         description: "Yes"
-        url: "/wizards/done"
+        url: "/guides/first-run-start"
 ---
 
 We're sorry the installation wasn't simple.
@@ -16,9 +16,5 @@ Please see the following resources to see whether you can solve the problem:
 
 - [System Requirements](http://gthnk.readthedocs.io/en/latest/intro/system-requirements.html)
 - [Installation](http://gthnk.readthedocs.io/en/latest/intro/installation.html)
-
-If necessary, go back in the Installation Wizard to review earlier steps.
-
-<a class="button" href="javascript:window.history.back();">Back</a>
 
 ## Did these resources help you install Gthnk?

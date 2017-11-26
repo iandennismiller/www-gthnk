@@ -5,7 +5,7 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "Next"
-        url: "/wizards/first-run-5"
+        url: "/guides/first-run-5"
 ---
 
 ```

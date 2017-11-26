@@ -2,7 +2,6 @@
 
 ## Milestone 1
 
-- [ ] contextual troubleshooting for the install wizard
 
 ## Done
 
@@ -17,3 +16,4 @@
 - [x] add social/card metadata for sharing
 - [x] install wizard
 - [x] on mobile layout, move menu to bottom
+- [x] contextual troubleshooting for the install wizard

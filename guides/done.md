@@ -11,7 +11,7 @@ choices:
 Congratulations!
 
 Gthnk is running and you are already using it.
-You are done with the Installation Wizard!
+You are done with the Installation Guide!
 If you found this guide to be useful, please give us some love on social media.
 Please make a post about Gthnk.
 Thanks!

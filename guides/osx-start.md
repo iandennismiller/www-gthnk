@@ -5,10 +5,10 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "No"
-        url: "/wizards/osx-1-python"
+        url: "/guides/osx-1-python"
     -
         description: "Yes"
-        url: "/wizards/osx-1-homebrew"
+        url: "/guides/osx-1-homebrew"
 ---
 
 There are two main steps to this install process:

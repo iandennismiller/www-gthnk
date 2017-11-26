@@ -5,7 +5,7 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "Next"
-        url: "/wizards/done"
+        url: "/guides/done"
 ---
 
 Here's what you can expect Gthnk to do.

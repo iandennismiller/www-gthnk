@@ -5,10 +5,10 @@ image: /public/gthnk-logo.png
 choices:
     -
         description: "No"
-        url: "/wizards/support"
+        url: "/guides/win-1-support"
     -
         description: "Yes"
-        url: "/wizards/win-2"
+        url: "/guides/win-2"
 ---
 
 1. [Download Python 3.6 or higher](http://python.org/download/windows) from the official website.
