@@ -2,6 +2,7 @@
 
 ## Milestone 1
 
+- [ ] support funnel captures troubleshooting info, sends people somewhere good
 
 ## Done
 
