@@ -2,7 +2,7 @@
 layout: post
 title: The Install Guide
 image: /public/gthnk-logo.png
-draft: true
+published: false
 ---
 
 The website has a new feature called the Install Guide that helps new users get started with Gthnk.
