@@ -14,8 +14,6 @@ This quick video demonstrates:
     <img src="/public/demo.gif">
 </p>
 
-## What is Gthnk?
-
 <div style="margin: 0 auto; width: 18em; display: block;">
   <h1 align="center">What is Gthnk?</h1>
   <p>
