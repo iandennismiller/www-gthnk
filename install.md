@@ -5,14 +5,21 @@ title: Install
 
 ## Typical Users
 
-We recommend that most users try the [Installation Guide](/guides/install) for a guided installation process.
+We recommend that most users run Gthnk via [Docker](https://www.docker.com/get-started):
 
-<a class="button" href="/guides/install/">Installation Guide</a>
+    docker run -d --rm \
+        --name gthnk-server \
+        -p 1620:1620 \
+        -e TZ=America/Toronto \
+        -v ~/.gthnk:/home/gthnk/.gthnk \
+        iandennismiller/gthnk
+
+Once Gthnk is running, read about how to use Gthnk.
+
+<p align="center">
+  <a class="button" href="/guides/first-run-start/">How to Use Gthnk</a>
+</p>
 
 ## Advanced Users
 
 The installation process is described in detail [in the documentation](http://gthnk.readthedocs.io/en/latest/intro/installation.html). Advanced Python users might find this faster.
-
-<p align="center">
-  <img src="/public/gthnk-logo.png">
-</p>

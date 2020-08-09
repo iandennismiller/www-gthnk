@@ -5,10 +5,10 @@ title: Status
 
 The status page provides an overview of the project systems.
 
-[![PyPI](https://img.shields.io/pypi/v/gthnk.svg)](http://python.gthnk.com)
+Python Package Index: [![PyPI](https://img.shields.io/pypi/v/gthnk.svg)](http://python.gthnk.com)
 
-[![Read The Docs](https://readthedocs.org/projects/gthnk/badge/?version=latest)](http://docs.gthnk.com)
+Documentation: [![Read The Docs](https://readthedocs.org/projects/gthnk/badge/?version=latest)](http://docs.gthnk.com)
 
-[![Travis CI](https://travis-ci.org/iandennismiller/gthnk.svg?branch=master)](http://build.gthnk.com)
+Testing: [![Travis CI](https://travis-ci.org/iandennismiller/gthnk.svg?branch=master)](http://build.gthnk.com)
 
-[![GitHub](https://img.shields.io/github/stars/iandennismiller/gthnk.svg?style=social&label=GitHub)](http://code.gthnk.com)
+Source Code: [![GitHub](https://img.shields.io/github/stars/iandennismiller/gthnk.svg?style=social&label=GitHub)](http://code.gthnk.com)

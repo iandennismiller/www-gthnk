@@ -1,6 +1,6 @@
 ---
 layout: wizard
-title: Refresh the Journal
+title: Edit the Journal
 image: /public/gthnk-logo.png
 choices:
     -
@@ -11,14 +11,8 @@ choices:
         url: "/guides/first-run-2"
 ---
 
-Now click the refresh button.
-A red arrow points to the refresh button in the image below.
+Using your favorite text editor, open this file:
 
-<p align="center">
-    <img src="/public/gthnk-refresh.png" style="-webkit-filter: drop-shadow(5px 5px 5px #888); filter: drop-shadow(5px 5px 5px #888);" >
-</p>
+`~/.gthnk/journal.txt`
 
-The refresh button will generate a fresh journal for you.
-Now you have a file on your Desktop called `journal.txt`.
-
-## Do you see journal.txt on your Desktop?
+## Are you now editing a file called journal.txt?

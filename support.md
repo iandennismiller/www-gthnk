@@ -15,7 +15,7 @@ Please take a few moments to familiarize yourself with the documentation because
 
 ## Issue Tracker
 
-[http://issues.gthnk.com](http://issues.gthnk.com)
+[GitHub Issues](https://github.com/iandennismiller/gthnk/issues)
 
 In case you encounter a problem with Gthnk, you can look at the Issues to see whether anybody else has the same problem.
 The issue tracker lets you create a "ticket" that will track the progress of the issue.
@@ -23,7 +23,7 @@ Each issue has a comment thread associated with it.
 
 ## Chat
 
-[http://chat.gthnk.com](http://chat.gthnk.com)
+[Matrix Chat](https://app.element.io/#/room/#gthnk:matrix.org)
 
 There is also a chat room for general Gthnk discussion and questions.
 You can try joining the chat room to see whether somebody can help you to answer a question or troubleshoot a problem.

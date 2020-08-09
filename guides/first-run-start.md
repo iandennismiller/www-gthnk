@@ -11,7 +11,10 @@ choices:
         url: "/guides/first-run-1"
 ---
 
-Log in using the username and password you chose during integration.
+Using your web browser, connect to [http://localhost:1620](http://localhost:1620)
+
+Log in using the default username 'gthnk' and the default password 'gthnk'.
+
 It should look a little like the image below:
 
 <p align="center">
