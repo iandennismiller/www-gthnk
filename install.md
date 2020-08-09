@@ -14,10 +14,10 @@ We recommend that most users run Gthnk via [Docker](https://www.docker.com/get-s
         -v ~/.gthnk:/home/gthnk/.gthnk \
         iandennismiller/gthnk
 
-Once Gthnk is running, read about how to use Gthnk.
+Once Gthnk is running, click **Next** to learn about how to use Gthnk.
 
 <p align="center">
-  <a class="button" href="/guides/first-run-start/">How to Use Gthnk</a>
+  <a class="button" href="/guides/first-run-start/">Next</a>
 </p>
 
 ## Advanced Users
